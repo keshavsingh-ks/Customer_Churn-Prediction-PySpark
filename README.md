@@ -17,7 +17,8 @@ Indexed and vectorized categorical columns (e.g., Contract, PaymentMethod) to co
 ## 3. Feature Engineering 🛠️
 Combined features using VectorAssembler for both numerical and categorical columns to create a feature vector for model training.
 
-!Feature engineering for better predictions (Screenshot 2024-10-03 at 6.24.16 PM.png)
+![Feature engineering for better predictions](1.png)
+
 
 ## 5. Model Building 🤖
 Built three machine learning models:
