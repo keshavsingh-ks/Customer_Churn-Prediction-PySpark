@@ -45,7 +45,8 @@ By focusing on MonthlyCharges, I proposed a business solution to:
 
 Convert monthly customers into long-term contract users, incentivizing them with discounts to reduce churn probability.
 A visual analysis showed how transitioning customers to long-term contracts could significantly reduce churn rates.
-
+![](2.png)
+![](3.png)
 
 ## Impact of Monthly Charges
 Customers with higher monthly charges were more likely to churn. Offering these customers long-term contracts with discounted rates can significantly reduce churn and improve customer retention.
